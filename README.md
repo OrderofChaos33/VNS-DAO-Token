@@ -13,5 +13,3 @@ This project is multilicensed as open source software. Specific licensing detail
 **All rights reserved** by eEnergyGLOBAL2025.  
 
 ---  
-
-Feel free to adapt this further based on your needs or additional details you'd like to include. If you'd like to go deeper into the structure, let me know!
