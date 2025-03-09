@@ -1,3 +1,6 @@
+
+PROJECT ABANDONED 3/8/25 DUE SPECULATIVE REGULATION AND COMPLIANCE THIS WAS A Practice project
+
 # VNS DAO Token Project  
 
 This repository contains the implementation of a private identity verification system leveraging zk-SNARKs for an interoperable, cross-chain, decentralized autonomous organization (DAO).  
